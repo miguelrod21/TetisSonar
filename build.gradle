@@ -23,7 +23,8 @@ sonarqube {
     property "sonar.organization", "miguelrod21"
     property "sonar.host.url", "https://sonarcloud.io"
     property "sonar.login", "db1e19a5ecae9f43f755939711903d9a1f06cd83"
-  }
+  } 
+  
 }
 allprojects {
     repositories {
